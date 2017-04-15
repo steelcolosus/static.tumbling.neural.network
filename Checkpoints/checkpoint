@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/eduardo/projects/nanodegree/deeplearning/static.tumbling.neural.network/Checkpoints/model-with-transitions-with-3-layers.tfl"
+all_model_checkpoint_paths: "/home/eduardo/projects/nanodegree/deeplearning/static.tumbling.neural.network/Checkpoints/model-with-transitions-with-3-layers.tfl"
