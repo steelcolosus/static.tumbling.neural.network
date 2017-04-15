@@ -1,0 +1,915 @@
+elements,score
+arabe,1.0000
+arabe arabe,2.1000
+flick,3.0000
+arabe arabe arabe,3.1333
+mortal,4.0000
+arabe flick,4.2000
+flick arabe,4.8000
+arabe arabe flick,5.2000
+arabe mortal,5.3000
+flick arabe arabe,5.6000
+arabe flick arabe,5.6667
+whip,6.0000
+arabe arabe mortal,6.2667
+mortal arabe,6.5500
+flick flick,6.9000
+layout,7.0000
+mortal arabe arabe,7.1000
+arabe mortal arabe,7.2333
+arabe whip,7.4000
+flick arabe flick,7.6667
+arabe flick flick,7.7333
+flick mortal,8.0000
+flick flick arabe,8.1333
+arabe arabe whip,8.3333
+arabe layout,8.5000
+mortal flick,8.6500
+flick arabe mortal,8.7333
+arabe flick mortal,8.8000
+giro,9.0000
+mortal arabe flick,9.1667
+whip arabe,9.2500
+arabe mortal flick,9.3000
+arabe arabe layout,9.4000
+whip arabe arabe,9.5667
+mortal flick arabe,9.6333
+flick mortal arabe,9.7000
+mortal mortal,9.7500
+arabe whip arabe,9.7667
+giro2,10.0000
+flick whip,10.1000
+flick flick flick,10.2000
+mortal arabe mortal,10.2333
+arabe mortal mortal,10.3667
+arabe giro,10.6000
+flick arabe whip,10.8000
+arabe flick whip,10.8667
+layout arabe,10.9500
+layout arabe arabe,11.0333
+flick layout,11.2000
+mortal mortal arabe,11.2000
+flick flick mortal,11.2667
+arabe layout arabe,11.3000
+whip flick,11.3500
+arabe arabe giro,11.4667
+whip arabe flick,11.6333
+mortal flick flick,11.7000
+arabe giro2,11.7000
+flick mortal flick,11.7667
+arabe whip flick,11.8333
+mortal whip,11.8500
+flick arabe layout,11.8667
+arabe flick layout,11.9333
+whip flick arabe,12.1000
+flick whip arabe,12.2333
+mortal arabe whip,12.3000
+arabe mortal whip,12.4333
+whip mortal,12.4500
+arabe arabe giro2,12.5333
+whip arabe mortal,12.7000
+mortal flick mortal,12.7667
+flick mortal mortal,12.8333
+arabe whip mortal,12.9000
+mortal layout,12.9500
+layout flick,13.0500
+layout arabe flick,13.1000
+mortal mortal flick,13.2667
+flick flick whip,13.3333
+flick giro,13.3500
+flick flick flick flick,13.3500
+arabe layout flick,13.3667
+mortal arabe layout,13.3667
+arabe mortal layout,13.5000
+giro arabe arabe,13.5000
+layout flick arabe,13.5667
+giro arabe,13.6500
+whip mortal arabe,13.6667
+mortal whip arabe,13.7333
+flick layout arabe,13.7667
+arabe giro arabe,13.8333
+flick arabe giro,13.9333
+arabe flick giro,14.0333
+layout mortal,14.1500
+whip flick flick,14.1667
+layout arabe mortal,14.1667
+flick whip flick,14.3000
+mortal mortal mortal,14.3333
+flick flick layout,14.4000
+flick flick flick mortal,14.4000
+arabe layout mortal,14.4333
+flick giro2,14.4500
+whip whip,14.5500
+mortal flick flick flick,14.7250
+whip arabe whip,14.7667
+flick flick mortal flick,14.7750
+flick mortal flick flick,14.7750
+mortal flick whip,14.8333
+flick mortal whip,14.9000
+arabe whip whip,14.9667
+flick arabe giro2,15.0000
+giro2 arabe arabe,15.0000
+mortal giro,15.0500
+arabe flick giro2,15.1000
+layout mortal arabe,15.1333
+whip flick mortal,15.2333
+mortal layout arabe,15.2667
+flick whip mortal,15.3667
+giro2 arabe,15.4000
+arabe giro2 arabe,15.4000
+mortal arabe giro,15.4333
+arabe mortal giro,15.5667
+giro arabe flick,15.5667
+layout flick flick,15.6333
+whip layout,15.6500
+whip mortal flick,15.7333
+mortal flick flick mortal,15.7750
+giro flick,15.8000
+mortal whip flick,15.8000
+flick flick mortal mortal,15.8250
+flick mortal flick mortal,15.8250
+whip arabe layout,15.8333
+flick layout flick,15.8333
+mortal flick layout,15.9000
+arabe giro flick,15.9333
+flick mortal layout,15.9667
+arabe whip layout,16.0333
+giro flick arabe,16.0667
+mortal giro2,16.1500
+mortal flick mortal flick,16.1500
+mortal mortal flick flick,16.1500
+whip whip arabe,16.2000
+flick mortal mortal flick,16.2000
+layout arabe whip,16.2333
+layout whip,16.2500
+flick giro arabe,16.3333
+mortal mortal whip,16.4000
+flick flick flick whip,16.4500
+arabe layout whip,16.5000
+flick flick giro,16.5000
+mortal arabe giro2,16.5000
+arabe mortal giro2,16.6333
+giro arabe mortal,16.6333
+layout flick mortal,16.7000
+whip mortal mortal,16.8000
+mortal whip mortal,16.8667
+giro mortal,16.9000
+flick layout mortal,16.9000
+arabe giro mortal,17.0000
+giro2 arabe flick,17.0667
+whip flick flick flick,17.0750
+flick flick whip flick,17.1750
+flick whip flick flick,17.1750
+mortal flick mortal mortal,17.2000
+mortal mortal flick mortal,17.2000
+layout mortal flick,17.2000
+flick mortal mortal mortal,17.2500
+whip flick whip,17.3000
+layout arabe layout,17.3000
+mortal layout flick,17.3333
+layout layout,17.3500
+flick whip whip,17.4333
+mortal mortal layout,17.4667
+arabe giro2 flick,17.4667
+flick flick flick layout,17.5000
+giro2 flick,17.5000
+giro2 flick arabe,17.5333
+arabe layout layout,17.5667
+flick flick giro2,17.5667
+mortal mortal mortal flick,17.5750
+giro mortal arabe,17.6333
+layout whip arabe,17.6667
+whip layout arabe,17.7333
+whip giro,17.7500
+mortal giro arabe,17.8000
+mortal flick flick whip,17.8250
+flick flick mortal whip,17.8750
+flick mortal flick whip,17.8750
+flick giro2 arabe,17.9000
+whip arabe giro,17.9000
+mortal flick giro,18.0000
+flick mortal giro,18.0333
+arabe whip giro,18.1000
+whip flick flick mortal,18.1250
+giro flick flick,18.1333
+giro2 arabe mortal,18.1333
+flick flick whip mortal,18.2250
+flick whip flick mortal,18.2250
+whip whip flick,18.2667
+layout mortal mortal,18.2667
+whip flick layout,18.3667
+mortal layout mortal,18.4000
+flick giro flick,18.4333
+flick whip layout,18.5000
+whip flick mortal flick,18.5000
+whip mortal flick flick,18.5000
+arabe giro2 mortal,18.5333
+mortal flick whip flick,18.5500
+mortal whip flick flick,18.5500
+flick flick layout flick,18.5750
+flick layout flick flick,18.5750
+giro2 mortal,18.6000
+flick mortal whip flick,18.6000
+flick whip mortal flick,18.6000
+mortal mortal mortal mortal,18.6250
+giro arabe whip,18.7000
+layout flick whip,18.7667
+whip giro2,18.8500
+whip mortal whip,18.8667
+mortal flick flick layout,18.8750
+flick flick mortal layout,18.9250
+flick mortal flick layout,18.9250
+mortal whip whip,18.9333
+flick layout whip,18.9667
+whip arabe giro2,18.9667
+giro whip,19.0000
+arabe giro whip,19.0667
+mortal flick giro2,19.0667
+flick mortal giro2,19.1000
+giro2 mortal arabe,19.1000
+arabe whip giro2,19.1667
+layout layout arabe,19.2000
+giro flick mortal,19.2000
+mortal flick mortal whip,19.2500
+mortal mortal flick whip,19.2500
+flick mortal mortal whip,19.3000
+whip whip mortal,19.3333
+mortal giro2 arabe,19.3667
+layout arabe giro,19.3667
+layout giro,19.4500
+flick giro mortal,19.5000
+mortal mortal giro,19.5333
+whip flick mortal mortal,19.5500
+whip mortal flick mortal,19.5500
+flick flick flick giro,19.5750
+mortal flick whip mortal,19.6000
+giro2 flick flick,19.6000
+mortal whip flick mortal,19.6000
+flick flick layout mortal,19.6250
+flick layout flick mortal,19.6250
+arabe layout giro,19.6333
+flick mortal whip mortal,19.6500
+flick whip mortal mortal,19.6500
+giro mortal flick,19.7000
+layout whip flick,19.7333
+giro arabe layout,19.7667
+whip layout flick,19.8000
+layout flick layout,19.8333
+mortal giro flick,19.9000
+whip mortal mortal flick,19.9250
+whip mortal layout,19.9333
+mortal flick layout flick,19.9500
+mortal layout flick flick,19.9500
+flick giro2 flick,19.9667
+mortal mortal whip flick,19.9750
+mortal whip mortal flick,19.9750
+mortal whip layout,20.0000
+flick mortal layout flick,20.0000
+flick layout mortal flick,20.0000
+flick layout layout,20.0333
+giro layout,20.1000
+arabe giro layout,20.1333
+giro whip arabe,20.1667
+whip flick flick whip,20.1750
+giro2 arabe whip,20.2000
+whip giro arabe,20.2667
+flick flick whip whip,20.2750
+flick whip flick whip,20.2750
+mortal flick mortal layout,20.3000
+mortal mortal flick layout,20.3000
+layout mortal whip,20.3333
+flick mortal mortal layout,20.3500
+layout arabe giro2,20.4333
+whip flick giro,20.4667
+mortal layout whip,20.4667
+layout giro2,20.5500
+flick whip giro,20.5667
+arabe giro2 whip,20.6000
+mortal mortal giro2,20.6000
+flick flick flick giro2,20.6250
+giro2 flick mortal,20.6667
+mortal mortal mortal whip,20.6750
+arabe layout giro2,20.7000
+giro2 whip,20.7000
+giro mortal mortal,20.7667
+layout whip mortal,20.8000
+whip layout mortal,20.8667
+whip flick whip flick,20.9000
+whip whip flick flick,20.9000
+mortal flick flick giro,20.9500
+mortal giro mortal,20.9667
+whip mortal mortal mortal,20.9750
+flick flick mortal giro,20.9750
+mortal flick layout mortal,21.0000
+flick mortal flick giro,21.0000
+flick whip whip flick,21.0000
+mortal layout flick mortal,21.0000
+flick flick giro flick,21.0250
+flick giro flick flick,21.0250
+mortal mortal whip mortal,21.0250
+mortal whip mortal mortal,21.0250
+flick giro2 mortal,21.0333
+flick mortal layout mortal,21.0500
+flick layout mortal mortal,21.0500
+giro2 mortal flick,21.1667
+whip flick flick layout,21.2250
+layout layout flick,21.2667
+giro flick whip,21.2667
+giro2 arabe layout,21.2667
+flick flick whip layout,21.3250
+flick whip flick layout,21.3250
+mortal mortal layout flick,21.3750
+mortal layout mortal flick,21.3750
+whip whip whip,21.4000
+layout mortal layout,21.4000
+mortal giro2 flick,21.4333
+mortal layout layout,21.5333
+whip flick giro2,21.5333
+flick giro whip,21.5667
+whip flick mortal whip,21.6000
+whip mortal flick whip,21.6000
+flick whip giro2,21.6333
+giro2 whip arabe,21.6333
+mortal flick whip whip,21.6500
+mortal whip flick whip,21.6500
+arabe giro2 layout,21.6667
+flick flick layout whip,21.6750
+flick layout flick whip,21.6750
+giro layout arabe,21.7000
+flick mortal whip whip,21.7000
+flick whip mortal whip,21.7000
+mortal mortal mortal layout,21.7250
+layout giro arabe,21.7333
+giro2 layout,21.8000
+giro arabe giro,21.8333
+whip giro2 arabe,21.8333
+layout flick giro,21.9333
+whip flick whip mortal,21.9500
+whip whip flick mortal,21.9500
+whip mortal giro,22.0000
+mortal flick flick giro2,22.0000
+flick flick mortal giro2,22.0250
+flick mortal flick giro2,22.0500
+flick whip whip mortal,22.0500
+mortal whip giro,22.0667
+flick flick giro mortal,22.0750
+flick giro flick mortal,22.0750
+flick layout giro,22.1000
+arabe giro giro,22.2000
+giro giro,22.2000
+giro2 mortal mortal,22.2333
+giro whip flick,22.2333
+whip flick layout flick,22.3000
+whip mortal whip flick,22.3250
+whip whip mortal flick,22.3250
+layout layout mortal,22.3333
+giro flick layout,22.3333
+mortal flick mortal giro,22.3500
+whip giro flick,22.3667
+mortal mortal flick giro,22.3750
+mortal whip whip flick,22.3750
+mortal giro flick flick,22.3750
+flick whip layout flick,22.4000
+flick mortal mortal giro,22.4000
+flick layout whip flick,22.4000
+mortal flick giro flick,22.4000
+mortal mortal layout mortal,22.4250
+mortal layout mortal mortal,22.4250
+flick flick giro2 flick,22.4250
+flick mortal giro flick,22.4250
+flick giro2 flick flick,22.4250
+flick giro mortal flick,22.4500
+whip whip layout,22.4667
+mortal giro2 mortal,22.5000
+flick giro layout,22.6333
+whip flick mortal layout,22.6500
+whip mortal flick layout,22.6500
+mortal flick whip layout,22.7000
+mortal whip flick layout,22.7000
+flick flick layout layout,22.7250
+flick layout flick layout,22.7250
+giro2 flick whip,22.7333
+flick mortal whip layout,22.7500
+flick whip mortal layout,22.7500
+giro mortal whip,22.8333
+layout whip whip,22.8667
+giro arabe giro2,22.9000
+whip layout whip,22.9333
+layout flick giro2,23.0000
+whip mortal mortal whip,23.0250
+mortal giro whip,23.0333
+mortal flick layout whip,23.0500
+mortal layout flick whip,23.0500
+whip mortal giro2,23.0667
+mortal mortal whip whip,23.0750
+mortal whip mortal whip,23.0750
+flick giro2 whip,23.1000
+flick mortal layout whip,23.1000
+flick layout mortal whip,23.1000
+mortal whip giro2,23.1333
+flick layout giro2,23.1667
+giro2 layout arabe,23.1667
+arabe giro giro2,23.2667
+giro giro2,23.3000
+layout giro2 arabe,23.3000
+giro whip mortal,23.3000
+whip flick flick giro,23.3000
+giro2 arabe giro,23.3333
+whip flick layout mortal,23.3500
+flick flick whip giro,23.3750
+whip mortal whip mortal,23.3750
+whip whip mortal mortal,23.3750
+flick whip flick giro,23.4000
+mortal flick mortal giro2,23.4000
+mortal giro flick mortal,23.4250
+mortal mortal flick giro2,23.4250
+mortal whip whip mortal,23.4250
+whip giro mortal,23.4333
+flick whip layout mortal,23.4500
+flick layout whip mortal,23.4500
+flick mortal mortal giro2,23.4500
+mortal flick giro mortal,23.4500
+layout mortal giro,23.4667
+flick flick giro2 mortal,23.4750
+flick mortal giro mortal,23.4750
+flick giro2 flick mortal,23.4750
+flick giro mortal mortal,23.5000
+mortal layout giro,23.6000
+giro2 whip flick,23.7000
+whip mortal layout flick,23.7250
+arabe giro2 giro,23.7333
+giro layout flick,23.7667
+mortal mortal mortal giro,23.7750
+mortal whip layout flick,23.7750
+mortal layout whip flick,23.7750
+mortal giro2 flick flick,23.7750
+giro2 flick layout,23.8000
+flick layout layout flick,23.8000
+mortal flick giro2 flick,23.8000
+mortal mortal giro flick,23.8000
+mortal giro mortal flick,23.8000
+flick mortal giro2 flick,23.8250
+layout giro flick,23.8333
+flick giro2 mortal flick,23.8500
+giro2 giro,23.9000
+whip giro2 flick,23.9000
+giro mortal layout,23.9000
+layout whip layout,23.9333
+whip layout layout,24.0000
+whip flick whip whip,24.0000
+whip whip flick whip,24.0000
+whip mortal mortal layout,24.0750
+mortal flick layout layout,24.1000
+mortal giro layout,24.1000
+flick whip whip whip,24.1000
+mortal layout flick layout,24.1000
+mortal mortal whip layout,24.1250
+mortal whip mortal layout,24.1250
+flick flick giro whip,24.1250
+flick giro flick whip,24.1250
+flick mortal layout layout,24.1500
+flick layout mortal layout,24.1500
+flick giro2 layout,24.1667
+giro giro arabe,24.2333
+giro2 mortal whip,24.3000
+whip flick flick giro2,24.3500
+layout layout whip,24.4000
+giro2 arabe giro2,24.4000
+flick flick whip giro2,24.4250
+giro flick giro,24.4333
+flick whip flick giro2,24.4500
+mortal mortal layout whip,24.4750
+mortal layout mortal whip,24.4750
+whip whip giro,24.5333
+layout mortal giro2,24.5333
+mortal giro2 whip,24.5667
+mortal layout giro2,24.6667
+whip flick mortal giro,24.7000
+flick giro giro,24.7000
+whip mortal flick giro,24.7250
+mortal flick whip giro,24.7500
+whip flick giro flick,24.7500
+giro2 whip mortal,24.7667
+flick flick layout giro,24.7750
+mortal whip flick giro,24.7750
+whip mortal layout mortal,24.7750
+flick mortal whip giro,24.8000
+flick whip mortal giro,24.8000
+arabe giro2 giro2,24.8000
+flick layout flick giro,24.8000
+flick whip giro flick,24.8250
+mortal mortal mortal giro2,24.8250
+mortal whip layout mortal,24.8250
+mortal layout whip mortal,24.8250
+mortal giro2 flick mortal,24.8250
+giro layout mortal,24.8333
+flick giro whip flick,24.8500
+flick layout layout mortal,24.8500
+mortal flick giro2 mortal,24.8500
+mortal mortal giro mortal,24.8500
+mortal giro mortal mortal,24.8500
+flick mortal giro2 mortal,24.8750
+layout giro mortal,24.9000
+flick giro2 mortal mortal,24.9000
+whip giro2 mortal,24.9667
+giro2 giro2,25.0000
+whip flick whip layout,25.0500
+whip whip flick layout,25.0500
+flick whip whip layout,25.1500
+flick flick giro layout,25.1750
+flick giro flick layout,25.1750
+mortal layout layout flick,25.1750
+mortal giro2 mortal flick,25.2000
+mortal mortal giro2 flick,25.2000
+giro2 layout flick,25.2333
+giro2 mortal layout,25.3667
+layout giro2 flick,25.3667
+giro whip whip,25.3667
+whip flick layout whip,25.4000
+whip mortal whip whip,25.4250
+whip whip mortal whip,25.4250
+layout layout layout,25.4667
+mortal whip whip whip,25.4750
+mortal giro flick whip,25.4750
+flick whip layout whip,25.5000
+whip giro whip,25.5000
+giro flick giro2,25.5000
+flick layout whip whip,25.5000
+mortal flick giro whip,25.5000
+flick flick giro2 whip,25.5250
+flick mortal giro whip,25.5250
+flick giro2 flick whip,25.5250
+mortal mortal layout layout,25.5250
+mortal layout mortal layout,25.5250
+flick giro mortal whip,25.5500
+whip whip giro2,25.6000
+mortal giro2 layout,25.6333
+giro2 giro arabe,25.7000
+whip flick mortal giro2,25.7500
+flick giro giro2,25.7667
+whip mortal flick giro2,25.7750
+whip flick giro mortal,25.8000
+giro giro2 arabe,25.8000
+mortal flick whip giro2,25.8000
+flick flick layout giro2,25.8250
+mortal whip flick giro2,25.8250
+flick mortal whip giro2,25.8500
+flick whip mortal giro2,25.8500
+flick layout flick giro2,25.8500
+flick whip giro mortal,25.8750
+flick giro whip mortal,25.9000
+giro2 flick giro,25.9000
+giro mortal giro,25.9667
+layout whip giro,26.0000
+whip layout giro,26.0667
+whip mortal mortal giro,26.1250
+mortal flick layout giro,26.1500
+whip flick giro2 flick,26.1500
+whip mortal giro flick,26.1500
+mortal giro giro,26.1667
+mortal mortal whip giro,26.1750
+mortal whip mortal giro,26.1750
+mortal layout flick giro,26.1750
+flick mortal layout giro,26.2000
+flick layout mortal giro,26.2000
+mortal whip giro flick,26.2000
+mortal giro whip flick,26.2000
+flick whip giro2 flick,26.2250
+flick layout giro flick,26.2250
+mortal layout layout mortal,26.2250
+flick giro2 giro,26.2333
+flick giro layout flick,26.2500
+flick giro2 whip flick,26.2500
+mortal mortal giro2 mortal,26.2500
+mortal giro2 mortal mortal,26.2500
+giro2 layout mortal,26.3000
+giro giro flick,26.3333
+layout giro2 mortal,26.4333
+giro whip layout,26.4333
+whip flick layout layout,26.4500
+whip mortal whip layout,26.4750
+whip whip mortal layout,26.4750
+mortal whip whip layout,26.5250
+mortal giro flick layout,26.5250
+flick whip layout layout,26.5500
+flick layout whip layout,26.5500
+mortal flick giro layout,26.5500
+whip giro layout,26.5667
+flick flick giro2 layout,26.5750
+flick mortal giro layout,26.5750
+flick giro2 flick layout,26.5750
+flick giro mortal layout,26.6000
+whip mortal layout whip,26.8250
+giro2 whip whip,26.8333
+mortal whip layout whip,26.8750
+mortal giro2 flick whip,26.8750
+mortal layout whip whip,26.8750
+flick layout layout whip,26.9000
+mortal flick giro2 whip,26.9000
+giro layout whip,26.9000
+mortal mortal giro whip,26.9000
+mortal giro mortal whip,26.9000
+flick mortal giro2 whip,26.9250
+flick giro2 mortal whip,26.9500
+giro2 flick giro2,26.9667
+layout giro whip,26.9667
+giro mortal giro2,27.0333
+whip giro2 whip,27.0333
+layout whip giro2,27.0667
+whip flick whip giro,27.1000
+whip whip flick giro,27.1250
+whip layout giro2,27.1333
+whip mortal mortal giro2,27.1750
+flick whip whip giro,27.2000
+mortal flick layout giro2,27.2000
+whip flick giro2 mortal,27.2000
+whip mortal giro mortal,27.2000
+flick flick giro giro,27.2250
+mortal mortal whip giro2,27.2250
+mortal whip mortal giro2,27.2250
+mortal layout flick giro2,27.2250
+mortal giro giro2,27.2333
+mortal whip giro mortal,27.2500
+mortal giro whip mortal,27.2500
+flick mortal layout giro2,27.2500
+flick layout mortal giro2,27.2500
+flick giro flick giro,27.2500
+giro2 giro2 arabe,27.2667
+flick whip giro2 mortal,27.2750
+flick layout giro mortal,27.2750
+flick giro layout mortal,27.3000
+flick giro2 giro2,27.3000
+flick giro2 whip mortal,27.3000
+giro giro mortal,27.4000
+giro2 mortal giro,27.4333
+layout layout giro,27.5333
+whip mortal giro2 flick,27.5500
+mortal mortal layout giro,27.5750
+mortal layout mortal giro,27.5750
+mortal whip giro2 flick,27.6000
+mortal layout giro flick,27.6000
+mortal giro layout flick,27.6000
+mortal giro2 whip flick,27.6000
+flick layout giro2 flick,27.6250
+flick giro2 layout flick,27.6500
+mortal giro2 giro,27.7000
+giro2 giro flick,27.8000
+whip flick giro whip,27.8500
+giro giro2 flick,27.8667
+whip mortal layout layout,27.8750
+giro2 whip layout,27.9000
+flick whip giro whip,27.9250
+mortal whip layout layout,27.9250
+mortal giro2 flick layout,27.9250
+mortal layout whip layout,27.9250
+flick layout layout layout,27.9500
+flick giro whip whip,27.9500
+mortal flick giro2 layout,27.9500
+mortal mortal giro layout,27.9500
+mortal giro mortal layout,27.9500
+giro layout layout,27.9667
+flick mortal giro2 layout,27.9750
+flick giro2 mortal layout,28.0000
+layout giro layout,28.0333
+whip giro2 layout,28.1000
+whip flick whip giro2,28.1500
+whip whip flick giro2,28.1750
+flick whip whip giro2,28.2500
+mortal layout layout whip,28.2750
+flick flick giro giro2,28.2750
+flick giro flick giro2,28.3000
+mortal mortal giro2 whip,28.3000
+mortal giro2 mortal whip,28.3000
+giro2 layout whip,28.3667
+layout giro2 whip,28.5000
+giro whip giro,28.5000
+giro2 mortal giro2,28.5000
+whip flick layout giro,28.5000
+whip mortal whip giro,28.5250
+whip whip mortal giro,28.5250
+mortal whip whip giro,28.5750
+layout layout giro2,28.6000
+flick whip layout giro,28.6000
+flick layout whip giro,28.6000
+mortal flick giro giro,28.6000
+mortal giro flick giro,28.6000
+whip mortal giro2 mortal,28.6000
+flick flick giro2 giro,28.6250
+flick mortal giro giro,28.6250
+mortal mortal layout giro2,28.6250
+mortal layout mortal giro2,28.6250
+whip giro giro,28.6333
+mortal whip giro2 mortal,28.6500
+mortal layout giro mortal,28.6500
+mortal giro layout mortal,28.6500
+mortal giro2 whip mortal,28.6500
+flick giro mortal giro,28.6500
+flick giro2 flick giro,28.6500
+flick layout giro2 mortal,28.6750
+flick giro giro flick,28.6750
+flick giro2 layout mortal,28.7000
+mortal giro2 giro2,28.7667
+giro2 giro mortal,28.8667
+whip flick giro layout,28.9000
+giro giro2 mortal,28.9333
+flick whip giro layout,28.9750
+mortal giro2 layout flick,29.0000
+flick giro whip layout,29.0000
+mortal layout giro2 flick,29.0000
+whip flick giro2 whip,29.2500
+whip mortal giro whip,29.2500
+mortal whip giro whip,29.3000
+mortal giro whip whip,29.3000
+flick whip giro2 whip,29.3250
+flick layout giro whip,29.3250
+mortal layout layout layout,29.3250
+giro2 giro2 flick,29.3333
+flick giro layout whip,29.3500
+flick giro2 whip whip,29.3500
+mortal mortal giro2 layout,29.3500
+mortal giro2 mortal layout,29.3500
+giro2 layout layout,29.4333
+giro giro whip,29.4667
+whip flick layout giro2,29.5500
+layout giro2 layout,29.5667
+giro whip giro2,29.5667
+whip mortal whip giro2,29.5750
+whip whip mortal giro2,29.5750
+mortal whip whip giro2,29.6250
+flick whip layout giro2,29.6500
+flick layout whip giro2,29.6500
+mortal flick giro giro2,29.6500
+mortal giro flick giro2,29.6500
+flick flick giro2 giro2,29.6750
+flick mortal giro giro2,29.6750
+whip giro giro2,29.7000
+flick giro mortal giro2,29.7000
+flick giro2 flick giro2,29.7000
+flick giro giro mortal,29.7250
+whip mortal layout giro,29.9250
+giro2 whip giro,29.9667
+mortal whip layout giro,29.9750
+mortal layout whip giro,29.9750
+flick layout layout giro,30.0000
+mortal flick giro2 giro,30.0000
+mortal mortal giro giro,30.0000
+mortal giro mortal giro,30.0000
+mortal giro2 flick giro,30.0000
+flick mortal giro2 giro,30.0250
+mortal giro giro flick,30.0250
+giro layout giro,30.0333
+mortal giro2 layout mortal,30.0500
+flick giro2 mortal giro,30.0500
+mortal layout giro2 mortal,30.0500
+flick giro giro2 flick,30.0750
+flick giro2 giro flick,30.0750
+layout giro giro,30.1000
+whip giro2 giro,30.1667
+whip mortal giro layout,30.3000
+whip flick giro2 layout,30.3000
+mortal whip giro layout,30.3500
+mortal giro whip layout,30.3500
+flick whip giro2 layout,30.3750
+flick layout giro layout,30.3750
+flick giro layout layout,30.4000
+flick giro2 whip layout,30.4000
+giro2 giro2 mortal,30.4000
+giro giro layout,30.5333
+whip mortal giro2 whip,30.6500
+mortal whip giro2 whip,30.7000
+mortal layout giro whip,30.7000
+mortal giro layout whip,30.7000
+mortal giro2 whip whip,30.7000
+flick layout giro2 whip,30.7250
+flick giro2 layout whip,30.7500
+giro2 giro whip,30.9333
+whip flick giro giro,30.9500
+whip mortal layout giro2,30.9750
+giro giro2 whip,31.0000
+flick whip giro giro,31.0250
+mortal whip layout giro2,31.0250
+mortal layout whip giro2,31.0250
+giro2 whip giro2,31.0333
+flick giro whip giro,31.0500
+mortal giro mortal giro2,31.0500
+flick layout layout giro2,31.0500
+mortal flick giro2 giro2,31.0500
+mortal mortal giro giro2,31.0500
+mortal giro2 flick giro2,31.0500
+flick mortal giro2 giro2,31.0750
+mortal giro giro mortal,31.0750
+giro layout giro2,31.1000
+flick giro2 mortal giro2,31.1000
+flick giro giro2 mortal,31.1250
+flick giro2 giro mortal,31.1250
+layout giro giro2,31.1667
+whip giro2 giro2,31.2333
+mortal layout layout giro,31.3750
+mortal giro2 mortal giro,31.4000
+mortal mortal giro2 giro,31.4000
+mortal giro giro2 flick,31.4250
+mortal giro2 giro flick,31.4250
+flick giro2 giro2 flick,31.4750
+giro2 layout giro,31.5000
+layout giro2 giro,31.6333
+whip mortal giro2 layout,31.7000
+mortal whip giro2 layout,31.7500
+mortal layout giro layout,31.7500
+mortal giro layout layout,31.7500
+mortal giro2 whip layout,31.7500
+flick layout giro2 layout,31.7750
+flick giro giro whip,31.7750
+flick giro2 layout layout,31.8000
+giro2 giro layout,32.0000
+whip flick giro giro2,32.0000
+giro giro2 layout,32.0667
+flick whip giro giro2,32.0750
+flick giro whip giro2,32.1000
+mortal layout giro2 whip,32.1000
+mortal giro2 layout whip,32.1000
+whip flick giro2 giro,32.3500
+whip mortal giro giro,32.3500
+mortal whip giro giro,32.4000
+mortal giro whip giro,32.4000
+flick whip giro2 giro,32.4250
+flick layout giro giro,32.4250
+mortal layout layout giro2,32.4250
+flick giro layout giro,32.4500
+flick giro2 whip giro,32.4500
+mortal mortal giro2 giro2,32.4500
+mortal giro2 mortal giro2,32.4500
+giro2 giro2 whip,32.4667
+mortal giro giro2 mortal,32.4750
+mortal giro2 giro mortal,32.4750
+flick giro2 giro2 mortal,32.5250
+giro2 layout giro2,32.5667
+giro giro giro,32.6000
+layout giro2 giro2,32.7000
+flick giro giro layout,32.8250
+mortal giro2 giro2 flick,32.8250
+mortal giro giro whip,33.1250
+mortal layout giro2 layout,33.1500
+mortal giro2 layout layout,33.1500
+flick giro giro2 whip,33.1750
+flick giro2 giro whip,33.1750
+whip flick giro2 giro2,33.4000
+whip mortal giro giro2,33.4000
+mortal whip giro giro2,33.4500
+mortal giro whip giro2,33.4500
+flick whip giro2 giro2,33.4750
+flick layout giro giro2,33.4750
+flick giro layout giro2,33.5000
+flick giro2 whip giro2,33.5000
+giro2 giro2 layout,33.5333
+giro giro giro2,33.6667
+whip mortal giro2 giro,33.7500
+mortal whip giro2 giro,33.8000
+mortal layout giro giro,33.8000
+mortal giro layout giro,33.8000
+mortal giro2 whip giro,33.8000
+flick layout giro2 giro,33.8250
+flick giro2 layout giro,33.8500
+mortal giro2 giro2 mortal,33.8750
+giro2 giro giro,34.0667
+giro giro2 giro,34.1333
+mortal giro giro layout,34.1750
+flick giro giro2 layout,34.2250
+flick giro2 giro layout,34.2250
+mortal giro giro2 whip,34.5250
+mortal giro2 giro whip,34.5250
+flick giro2 giro2 whip,34.5750
+whip mortal giro2 giro2,34.8000
+mortal whip giro2 giro2,34.8500
+mortal layout giro giro2,34.8500
+mortal giro layout giro2,34.8500
+mortal giro2 whip giro2,34.8500
+flick layout giro2 giro2,34.8750
+flick giro giro giro,34.8750
+flick giro2 layout giro2,34.9000
+giro2 giro giro2,35.1333
+mortal giro2 layout giro,35.2000
+giro giro2 giro2,35.2000
+mortal layout giro2 giro,35.2000
+mortal giro giro2 layout,35.5750
+mortal giro2 giro layout,35.5750
+giro2 giro2 giro,35.6000
+flick giro2 giro2 layout,35.6250
+flick giro giro giro2,35.9250
+mortal giro2 giro2 whip,35.9250
+mortal giro giro giro,36.2250
+mortal giro2 layout giro2,36.2500
+mortal layout giro2 giro2,36.2500
+flick giro giro2 giro,36.2750
+flick giro2 giro giro,36.2750
+mortal giro2 giro2 layout,36.9750
+mortal giro giro giro2,37.2750
+flick giro giro2 giro2,37.3250
+flick giro2 giro giro2,37.3250
+mortal giro giro2 giro,37.6250
+mortal giro2 giro giro,37.6250
+flick giro2 giro2 giro,37.6750
+mortal giro giro2 giro2,38.6750
+mortal giro2 giro giro2,38.6750
+flick giro2 giro2 giro2,38.7250
+mortal giro2 giro2 giro,39.0250
+mortal giro2 giro2 giro2,40.0750
